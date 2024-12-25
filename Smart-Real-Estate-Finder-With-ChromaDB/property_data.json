@@ -1,0 +1,134 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "description": "Spacious 2-bedroom apartment with a balcony and city view.",
+      "address": "123 Main St, Cityville",
+      "price": 1200,
+      "features": ["2 bedrooms", "balcony", "city view"],
+      "image": "assets/img/1.jpg"
+    
+    },
+    {
+      "id": "2",
+      "description": "Luxury beachside home with 4 bedrooms, pool, and garden.",
+      "address": "456 Beachfront Ave, Seaside Town",
+      "price": 5000,
+      "features": ["4 bedrooms", "pool", "garden", "beachside"],
+      "image": "assets/img/2.jpg"
+     
+    },
+    {
+      "id": "3",
+      "description": "Mountain cabin with 3 bedrooms and a fireplace.",
+      "address": "789 Mountain View Rd, Hilltown",
+      "price": 1500,
+      "features": ["3 bedrooms", "fireplace", "mountain view"],
+      "image": "assets/img/3.jpg"
+    
+    },
+    {
+      "id": "4",
+      "description": "Modern studio apartment in the heart of downtown.",
+      "address": "101 City Plaza, Urban Center",
+      "price": 900,
+      "features": ["studio", "downtown", "modern design"],
+      "image": "assets/img/4.jpg"
+      
+    },
+    {
+      "id": "5",
+      "description": "Country house with 5 acres of farmland and 4 bedrooms.",
+      "address": "555 Country Rd, Farmland",
+      "price": 2500,
+      "features": ["4 bedrooms", "farmhouse", "large land"],
+      "image": "assets/img/5.jpg"
+     
+    },
+    {
+      "id": "6",
+      "description": "Beachfront condo with ocean views and private access.",
+      "address": "789 Ocean Dr, Beach City",
+      "price": 3000,
+      "features": ["2 bedrooms", "ocean view", "private beach access"],
+      "image": "assets/img/6.jpg"
+    },
+    {
+      "id": "7",
+      "description": "Charming lakeside house with a private dock and stunning sunset views.",
+      "address": "321 Lakeside Dr, Lakeview",
+      "price": 3500,
+      "features": ["3 bedrooms", "dock", "lake view"],
+      "image": "assets/img/7.jpg"
+     
+    },
+    {
+      "id": "8",
+      "description": "Unique tree house nestled among the trees, perfect for a getaway.",
+      "address": "789 Forest Lane, Green Valley",
+      "price": 2000,
+      "features": ["2 bedrooms", "treehouse", "nature retreat"],
+      "image": "assets/img/8.jpg"
+     
+    },
+    {
+      "id": "9",
+      "description": "Brick house with open floor plan andhigh ceilings.",
+      "address": "202 Loft St, Downtown",
+      "price": 2500,
+      "features": ["2 bedrooms", "open floor plan", "high ceilings", "brick house"],
+      "image": "assets/img/9.jpg"
+      
+    },
+    {
+      "id": "10",
+      "description": "Beautiful Victorian house with intricate woodwork and large gardens.",
+      "address": "333 Victorian Ave, Historic District",
+      "price": 4500,
+      "features": ["5 bedrooms", "historic architecture", "large garden"],
+      "image": "assets/img/10.jpg"
+     
+    },
+    {
+      "id": "11",
+      "description": "Eco-friendly tiny house with solar panels and modern amenities.",
+      "address": "123 Green St, Ecoville",
+      "price": 800,
+      "features": ["tiny house", "solar panels", "eco-friendly"],
+      "image": "assets/img/11.jpg"
+    },
+    {
+      "id": "12",
+      "description": "Penthouse suite with panoramic city views and private elevator.",
+      "address": "100 Sky Tower, Metropolis",
+      "price": 6000,
+      "features": ["penthouse", "city view", "private elevator"],
+      "image": "assets/img/12.jpg"
+    },
+    {
+      "id": "13",
+      "description": "Two-story family home with 4 bedrooms and a spacious backyard.",
+      "address": "456 Maple St, Suburban Town",
+      "price": 3200,
+      "features": ["4 bedrooms", "two-story", "spacious backyard"],
+      "image": "assets/img/13.jpg"
+    },
+    {
+      "id": "14",
+      "description": "Modern house with 3 bedrooms, a garage, and a home office.",
+      "address": "789 Elm St, Quiet Neighborhood",
+      "price": 2800,
+      "features": ["3 bedrooms", "garage", "home office"],
+      "image": "assets/img/14.jpg"
+    },
+    {
+      "id": "15",
+      "description": "Luxury penthouse with rooftop garden and private hot tub.",
+      "address": "1000 Skyview Terrace, Skyline City",
+      "price": 8500,
+      "features": ["penthouse", "rooftop garden", "private hot tub"],
+      "image": "assets/img/15.jpg"
+    }
+    
+  ]
+}

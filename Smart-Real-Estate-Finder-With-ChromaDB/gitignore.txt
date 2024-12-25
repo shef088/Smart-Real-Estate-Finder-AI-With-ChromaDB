@@ -1,0 +1,52 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+env/
+.venv/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm project files
+.idea/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode files
+.vscode/
+
+# Node.js (if used in the project)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+ 
+
+# Ignore compiled code
+*.so
+
+# Ignore uploaded media
+media/
+
+# Ignore ChromaDB related files (if applicable)
+*.chroma
+
+# MacOS system files
+*.DS_Store
